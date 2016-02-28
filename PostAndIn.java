@@ -1,3 +1,4 @@
+I modified this a little so p and i can be initialied the same value
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
